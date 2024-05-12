@@ -1,0 +1,1 @@
+# sum-of-digit-is-palindrome-or-not
